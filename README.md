@@ -15,3 +15,4 @@ The scripts are organized by categories or functionality. Each script includes a
 1. **Browse the Scripts**: Explore the scripts in this folder to find the one that suits your needs.
 2. **Clone or Download**: You can clone the repository or download the scripts individually to your local machine.
 3. **Run the Scripts**: Follow the usage instructions provided within each script's documentation or comments to run them successfully.
+# All-Scripts
